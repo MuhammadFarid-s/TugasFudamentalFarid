@@ -1,0 +1,8 @@
+class Main {
+  public static void main(String[] args) {
+   String Satu= "Saya berkata,";
+   String Dua= " \"Rajin belajar,";
+   String Tiga= " ya!\"";
+    System.out.println(Satu + Dua + Tiga);
+  }
+}
