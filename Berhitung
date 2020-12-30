@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+      Scanner Input = new Scanner(System.in);
+      int sebanyak = Input.nextInt();
+        for (int i = 1 ; i <= sebanyak; i++) {
+            System.out.println(i);
+        }
+        
+    }
+}
