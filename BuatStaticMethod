@@ -1,4 +1,4 @@
-public class Main {
+public class BuatStaticMethod {
     public static void main(String[] args) {
       String nilai = Main.salam();
       System.out.println(nilai);
