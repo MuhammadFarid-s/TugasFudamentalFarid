@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class GambarPersegi {
     public static void main(String[] args) {
         Scanner Input = new Scanner(System.in);
         int angka = Input.nextInt();
