@@ -1,4 +1,4 @@
-class Main {
+class TentangPostIncrement {
   public static void main(String[] args) {
     int x = 10;	
     int y = x++; // post-increment
