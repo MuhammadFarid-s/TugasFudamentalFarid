@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class ArrayTerbalik2 {
     public static void main(String[] args){
       Scanner Input = new Scanner(System.in);
       int penjumlahan = Input.nextInt();
