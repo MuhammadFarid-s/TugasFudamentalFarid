@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class HitungAngkaGanjil {
 
 	public static void main(String[] args) {
 		Scanner f = new Scanner(System.in);
